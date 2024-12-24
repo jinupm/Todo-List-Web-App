@@ -1,13 +1,13 @@
-package com.springboot.myfirstwebapplication;
+package com.springboot.todolist;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MyFirstWebApplication {
+public class TodoListWebApp {
 
 	public static void main(String[] args) {
-		SpringApplication.run(MyFirstWebApplication.class, args);
+		SpringApplication.run(TodoListWebApp.class, args);
 	}
 
 }

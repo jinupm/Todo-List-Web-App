@@ -1,4 +1,4 @@
-package com.springboot.myfirstwebapplication.todolist;
+package com.springboot.todolist.todolist;
 
 import org.springframework.data.jpa.repository.JpaRepository;
 

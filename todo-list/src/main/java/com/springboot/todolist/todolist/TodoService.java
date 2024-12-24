@@ -1,4 +1,4 @@
-package com.springboot.myfirstwebapplication.todolist;
+package com.springboot.todolist.todolist;
 
 import jakarta.validation.Valid;
 import org.springframework.stereotype.Service;

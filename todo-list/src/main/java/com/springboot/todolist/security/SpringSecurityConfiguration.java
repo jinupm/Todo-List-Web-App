@@ -1,4 +1,4 @@
-package com.springboot.myfirstwebapplication.security;
+package com.springboot.todolist.security;
 
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;

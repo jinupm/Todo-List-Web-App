@@ -1,4 +1,4 @@
-package com.springboot.myfirstwebapplication.todolist;
+package com.springboot.todolist.todolist;
 
 import jakarta.persistence.Entity;
 import jakarta.persistence.GeneratedValue;
